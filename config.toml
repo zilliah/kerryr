@@ -1,0 +1,79 @@
+baseURL = "https://kerrrry.ca/"
+languageCode = "en-us"
+title = "Kerry Smart"
+theme = "cactus"
+copyright = "Kerry Smart"
+
+[params]
+    description = "Hello - I'm Kerry and I like to make things."
+    rss = true
+    #https://example.com/index.xml is RSS feed
+    css = ["css/kstyles.css"]
+    name = "Kerry Smart"
+    # mainSection = "projects"  #changes section on main page
+    mainSectionTitle = "Projects"
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 6
+    tagsOverview = true
+
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts"
+  weight = 2
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 3
+
+
+# [[menu.main]]
+#   name = "Tags"
+#   url = "/tags"
+#   weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 4
+
+[[menu.main]]
+  name = "Hire Me"
+  url = "/hire"
+  weight = 5
+
+
+[[menu.main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 7
+
+[[menu.main]]
+  name = "Tech Site"
+  url = "https://kerrysmart.ca"
+  weight = 6
+
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/zilliah"
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/kerryzsmart/"
+
+ [[params.social]]
+  name = "instagram"
+  link = "https://www.instagram.com/vitreousfabric/"
+
+
+[[params.social]]
+  name = "email"
+  link = "kerry.z.smart@gmail.com"
