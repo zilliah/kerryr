@@ -1,9 +1,8 @@
 +++
-title = "Test1"
-date = 2022-01-20T18:40:33-05:00
-draft = false
 categories = []
-tags = ["normcore"]
-+++
+date = 2022-01-20T23:40:33Z
+tags = ["another test", "testing again"]
+title = "Test1"
 
++++
 Say words here
