@@ -7,3 +7,4 @@ tags = []
 title = "Efficient stitches"
 
 +++
+A post about making efficient sts, clean backs, nice front sts (crossstitch)
