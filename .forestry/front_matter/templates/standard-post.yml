@@ -11,40 +11,11 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: categories
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: categories
-  description: Mid-level categorization of topics
 - name: groups
-  type: select
+  type: tag_list
   default: []
-  config:
-    required: false
-    options:
-    - textiles
-    - art
-    - personal
-    - music
-    - media
-    - craft
-    - make
-    - tech
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
   label: groups
-  description: Top level categorization of topic
+  description: top level:<br><br>textiles<br>art<br>tech<br>make<br><br>personal<br>music<br>media
 pages:
 - content/contact.md
 - content/posts/efficient-stitches.md
