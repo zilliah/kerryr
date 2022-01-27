@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: list
-  name: tags
-  label: tags
 - name: groups
   type: tag_list
   default: []
@@ -25,6 +22,10 @@ fields:
     media<br><br>tech: <br>??<br><br>personal:<br>- diary? selfcare?<br>- autism<br><br>media:<br>-
     books<br>- tv/movies<br>- recommendations<br><br>misc:<br>- technique<br>- tutorial<br>-
     WIP<br>- FO<br>'
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - content/contact.md
 - content/posts/efficient-stitches.md
