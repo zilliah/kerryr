@@ -15,4 +15,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/contact.md
 - content/posts/efficient-stitches.md
