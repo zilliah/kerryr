@@ -1,8 +1,9 @@
 +++
-categories = ["cross stitch"]
+categories = ""
 date = 2022-01-27T05:00:00Z
 draft = true
-tags = ["technique", "embroidery", "textiles", "cross stitch"]
+groups = ["textiles"]
+tags = []
 title = "Efficient stitches"
 
 +++
