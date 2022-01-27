@@ -12,7 +12,8 @@ fields:
   type: tag_list
   default: []
   label: groups
-  description: top level org:<br><br>textiles<br>art<br>tech<br>make<br><br>personal<br>music<br>media
+  description: top level org:<br><br>textiles<br>art<br>tech<br>craft<br>make (anything
+    I make myself)<br><br>personal<br>music<br>media
 - name: categories
   type: tag_list
   default: []
