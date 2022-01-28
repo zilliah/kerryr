@@ -5,4 +5,4 @@ draft = false
 
 +++
 
-Finished projects go here
+Make a projects page eventually

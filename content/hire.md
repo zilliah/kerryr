@@ -3,6 +3,10 @@ date = 2022-01-20T22:49:22Z
 title = "Hire me"
 
 +++
+
+Hire Me
+=========================
+
 I'm currently working freelance and have time available \[guh\]
 
 I love to collaborate and 

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerry Smart</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Kerry Smart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kerry Smart</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 17:49:22 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient stitches</title>
+      <link>http://localhost:1313/posts/efficient-stitches/</link>
+      <pubDate>Thu, 27 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/efficient-stitches/</guid>
+      <description>A post about making efficient sts, clean backs, nice front sts (crossstitch)</description>
+    </item>
+    
+    <item>
+      <title>About Kerry</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 20 Jan 2022 17:49:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About I do a lot of different things, especially arts and crafts.
+website build on cactus theme using hugo</description>
+    </item>
+    
+    <item>
+      <title>Hire me</title>
+      <link>http://localhost:1313/hire/</link>
+      <pubDate>Thu, 20 Jan 2022 22:49:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hire/</guid>
+      <description>Hire Me I&amp;rsquo;m currently working freelance and have time available [guh]
+I love to collaborate and
+rates vary by topic and type of work
+lessons
+ music? ukulele knitting cross stitch  comissions
+ art, i guess knitting xst  tech
+ go to professional website w tech stuff for that (or just contact)  organization
+ i&amp;rsquo;ll make systems for you data librarian stuff  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 20 Jan 2022 17:49:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Make a projects page eventually</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Contact Me Interested in working with me? Want to commission something? Just want to say hi?
+You can find me on [social media places, email] or use this contact form:</description>
+    </item>
+    
+  </channel>
+</rss>
