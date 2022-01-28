@@ -8,7 +8,7 @@ copyright = "Kerry Smart"
     # description = "Hello - I'm Kerry and I love to craft and make things.  I'm currently focused on cross stitching and web development."
     rss = true
     #https://example.com/index.xml is RSS feed
-    css = ["css/kstyles.css"]
+    # css = ["css/kstyles.css"]  //can add custom css but am just editing the theme scss...
     name = "Kerry Smart"
     # mainSection = "categories"  #changes section on main page
     mainSectionTitle = "Posts"
