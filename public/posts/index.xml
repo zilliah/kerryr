@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kerry Smart</title>
-    <link>https://kerrrry.ca/posts/</link>
+    <link>https://kerryr.netlify.app/posts/</link>
     <description>Recent content in Posts on Kerry Smart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kerry Smart</copyright>
     <lastBuildDate>Thu, 20 Jan 2022 18:41:42 -0500</lastBuildDate>
     
-	<atom:link href="https://kerrrry.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kerryr.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test2</title>
-      <link>https://kerrrry.ca/posts/test2/</link>
+      <link>https://kerryr.netlify.app/posts/test2/</link>
       <pubDate>Thu, 20 Jan 2022 18:41:42 -0500</pubDate>
       
-      <guid>https://kerrrry.ca/posts/test2/</guid>
+      <guid>https://kerryr.netlify.app/posts/test2/</guid>
       <description>Say words here</description>
     </item>
     
     <item>
       <title>Test1</title>
-      <link>https://kerrrry.ca/posts/test1/</link>
+      <link>https://kerryr.netlify.app/posts/test1/</link>
       <pubDate>Thu, 20 Jan 2022 18:40:33 -0500</pubDate>
       
-      <guid>https://kerrrry.ca/posts/test1/</guid>
+      <guid>https://kerryr.netlify.app/posts/test1/</guid>
       <description>Say words here</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://kerrrry.ca/posts/first-post/</link>
+      <link>https://kerryr.netlify.app/posts/first-post/</link>
       <pubDate>Thu, 20 Jan 2022 17:49:22 -0500</pubDate>
       
-      <guid>https://kerrrry.ca/posts/first-post/</guid>
+      <guid>https://kerryr.netlify.app/posts/first-post/</guid>
       <description>this is a test post</description>
     </item>
     

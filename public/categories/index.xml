@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kerry Smart</title>
-    <link>https://kerrrry.ca/categories/</link>
+    <link>https://kerryr.netlify.app/categories/</link>
     <description>Recent content in Categories on Kerry Smart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kerry Smart</copyright>
     <lastBuildDate>Thu, 20 Jan 2022 18:41:42 -0500</lastBuildDate>
     
-	<atom:link href="https://kerrrry.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kerryr.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>butts</title>
-      <link>https://kerrrry.ca/categories/butts/</link>
+      <link>https://kerryr.netlify.app/categories/butts/</link>
       <pubDate>Thu, 20 Jan 2022 18:41:42 -0500</pubDate>
       
-      <guid>https://kerrrry.ca/categories/butts/</guid>
+      <guid>https://kerryr.netlify.app/categories/butts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>knitting</title>
-      <link>https://kerrrry.ca/categories/knitting/</link>
+      <link>https://kerryr.netlify.app/categories/knitting/</link>
       <pubDate>Thu, 20 Jan 2022 17:49:22 -0500</pubDate>
       
-      <guid>https://kerrrry.ca/categories/knitting/</guid>
+      <guid>https://kerryr.netlify.app/categories/knitting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>yarn</title>
-      <link>https://kerrrry.ca/categories/yarn/</link>
+      <link>https://kerryr.netlify.app/categories/yarn/</link>
       <pubDate>Thu, 20 Jan 2022 17:49:22 -0500</pubDate>
       
-      <guid>https://kerrrry.ca/categories/yarn/</guid>
+      <guid>https://kerryr.netlify.app/categories/yarn/</guid>
       <description></description>
     </item>
     

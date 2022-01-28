@@ -5,18 +5,21 @@ theme = "cactus"
 copyright = "Kerry Smart"
 
 [params]
-    description = "Hello - I'm Kerry and I like to make things."
+    # description = "Hello - I'm Kerry and I love to craft and make things.  I'm currently focused on cross stitching and web development."
     rss = true
     #https://example.com/index.xml is RSS feed
     css = ["css/kstyles.css"]
     name = "Kerry Smart"
-    # mainSection = "projects"  #changes section on main page
-    mainSectionTitle = "Projects"
+    # mainSection = "categories"  #changes section on main page
+    mainSectionTitle = "Posts"
     showAllPostsOnHomePage = false
     postsOnHomePage = 6
     tagsOverview = true
+    
 
 
+
+# ----------- nav ------------
 
 [[menu.main]]
   name = "Home"
@@ -28,10 +31,10 @@ copyright = "Kerry Smart"
   url = "/posts"
   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "/projects"
-  weight = 3
+# [[menu.main]]
+#   name = "Projects"
+#   url = "/projects"
+#   weight = 3
 
 
 # [[menu.main]]
@@ -47,33 +50,45 @@ copyright = "Kerry Smart"
 [[menu.main]]
   name = "Hire Me"
   url = "/hire"
-  weight = 5
+  weight = 3
 
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 6
+
+
+
+# [[menu.main]]
+#   name = "Tech Site"
+#   url = "https://kerrysmart.ca"
+#   weight = 7
 
 [[menu.main]]
   name = "RSS"
   url = "/index.xml"
   weight = 7
 
-[[menu.main]]
-  name = "Tech Site"
-  url = "https://kerrysmart.ca"
-  weight = 6
 
 
-[[params.social]]
-  name = "github"
-  link = "https://github.com/zilliah"
+# ------------ socials -----------------
 
-[[params.social]]
-  name = "linkedin"
-  link = "https://www.linkedin.com/in/kerryzsmart/"
+#  [[params.social]]
+#   name = "instagram"
+#   link = "https://www.instagram.com/vitreousfabric/"
 
- [[params.social]]
-  name = "instagram"
-  link = "https://www.instagram.com/vitreousfabric/"
+# [[params.social]]
+#   name = "github"
+#   link = "https://github.com/zilliah"
+
+# [[params.social]]
+#   name = "linkedin"
+#   link = "https://www.linkedin.com/in/kerryzsmart/"
 
 
-[[params.social]]
-  name = "email"
-  link = "kerry.z.smart@gmail.com"
+# [[params.social]]
+#   name = "email"
+#   link = "kerry.z.smart@gmail.com"
+
+
+# ----------------- categories (taken over projects) -------------------

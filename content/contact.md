@@ -1,8 +1,6 @@
 +++
-categories = []
 date = ""
-tags = []
-title = "Contact"
+title = "Contact Me"
 
 +++
 Interested in working with me? Want to commission something? Just want to say hi?
