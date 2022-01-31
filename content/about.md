@@ -1,14 +1,23 @@
 +++
+date = 2022-01-20T22:49:22Z
+draft = true
 title = "About Kerry"
-date = 2022-01-20T17:49:22-05:00
-draft = false
+
 +++
+# About
 
-About
-=====================
+I do a lot of different things, especially arts and crafts.
 
+list of them?
 
-I do a lot of different things, especially arts and crafts. 
+ottawa area, canada
 
+BKI, math, art
+
+worked as things? make things?
+
+I have a Bachelor's of Knowledge Integration and Mathematics, with a Fine Art Studio minor, from the University of Waterloo.
+
+visual with technical
 
 website build on cactus theme using hugo
