@@ -70,22 +70,32 @@ copyright = "Kerry Smart"
 
 # ------------ socials -----------------
 
-#  [[params.social]]
-#   name = "instagram"
-#   link = "https://www.instagram.com/vitreousfabric/"
+ [[params.social]]
+  name = "instagram"
+  display-name = "Instagram"
+  link = "https://www.instagram.com/vitreousfabric/"
 
-# [[params.social]]
-#   name = "github"
-#   link = "https://github.com/zilliah"
+[[params.social]]
+  name = "github"
+  display-name = "Github"
+  link = "https://github.com/zilliah"
 
-# [[params.social]]
-#   name = "linkedin"
-#   link = "https://www.linkedin.com/in/kerryzsmart/"
+[[params.social]]
+  name = "linkedin"
+  display-name = "LinkedIn"
+  link = "https://www.linkedin.com/in/kerryzsmart/"
 
 
-# [[params.social]]
-#   name = "email"
-#   link = "kerry.z.smart@gmail.com"
+[[params.social]]
+  name = "email"
+  display-name = "email"
+  link = "kerry.z.smart@gmail.com"
 
+[[params.social]]
+  name = "external-link-alt"
+  display-name = "professional website"
+  link = "https://kerrysmart.ca"
+
+ 
 
 # ----------------- categories (taken over projects) -------------------
