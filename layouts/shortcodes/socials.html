@@ -1,0 +1,40 @@
+<!-- ok i want to have the general font awesome thing but with names and generalized -->
+
+
+<!-- a link, with fa icon and appropriate source -->
+
+<!-- maybe i can still set the links in the config.... -->
+
+<!-- pass in a variable from .md, eg github -->
+
+<a class="icon" target="_blank" rel="noopener" href="https://github.com/zilliah" aria-label="github">
+    <i class="fab fa-github" aria-hidden="true"></i> 
+    github.
+</a>
+
+<!-- 
+formatting i want is:
+[icon] name -->
+
+<!-- ok so i'm passing in the name, is gonna be .Params.social -->
+
+<a class="icon" target="_blank" rel="noopener" href="https://github.com/zilliah" aria-label="github">
+    <i class="fab fa-github" aria-hidden="true"></i> 
+    github.
+</a>
+
+<!-- so i would call this  -->
+
+
+<a class="icon" target="_blank" rel="noopener" href="" aria-label="">
+    <i class="fab fa-name" aria-hidden="true"></i>
+</a>
+
+
+<!-- .Params.param-name -->
+
+
+{{ $length := (len .Site.Params.social) }}
+{{ range $index, $elem := .Site.Params.social}}
+
+{{ end }}
