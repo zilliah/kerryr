@@ -8,12 +8,4 @@ type = "contact"
 +++
 # Contact Me
 
-Interested in working with me? Want to commission something? Have an ideal for a fun collaboration? Just want to say hi?
-
-{{< socials name="github">}}
-
-{{< socials name="instagram">}}
-
-{{< socials name="linkedin">}}
-
-{{< socials name="email">}}
+Interested in working with me? Want to commission something? Have an idea for a fun project? Just want to say hi?
