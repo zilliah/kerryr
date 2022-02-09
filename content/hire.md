@@ -7,41 +7,42 @@ title = "Hire me"
 
 \[intro\]
 
-### Lessons
+## Lessons
 
-* music? ukulele
-* knitting
-* cross stitch
+I teach both group and one-one one classes. Currently remote.
 
-### Art and Craft Commissions
+* Knitting - any level
+* Cross stitching - help choosing and starting your first project
+* Ukulele - learn to play basic songs
 
-If I can make it, I'll make it for you. 
+## Art and Craft Commissions
 
-* art, i guess - drawing, painting?
-* knitting, crochet
-* xst, embroidery
-* write terrible parody song
+If I can make it, I'll make one for you. Commissions can be as specific or vague as you like.
 
-### tech
+* Knitting and crochet
+* Cross stitch and embroidery - framed or on garments
+* Drawing, mixed media artwork
+* Terrible parody songs - pick a song and a topic
 
-* go to professional website w tech stuff for that (or just contact)
+## Organisation
 
-### Organization
+* Item organization - give me a set of physical or digital items and I'll organise them for you
+* Personal organisational design - have something you need to organise, but can't figure out how? I can design an organisational system to fit your needs
+* Data librarian services - 
 
-* i'll make systems for you
-* data librarian stuff
-* give me boxes of stuff or files and i'll organise them for you
+## Wall Art Help
 
-### art help
-
+* Hanging services - 
 * finding reasonable cheapish art
 * hanging art in your home
 
-writing?
+\[writing?\]
 
-I'm currently open to \[\] I'm based near Ottawa, but prefer to work remotely. 
+## Web Development
 
-### Rates
+* Details at {{< socials name="tech-site" >}}
+
+## Rates
 
 Since I do a broad variety of work, my rates vary depending on what you're looking for. I'm also open to barter and trades.
 
