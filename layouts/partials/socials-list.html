@@ -1,0 +1,42 @@
+
+{{ if isset .Site.Params "social" }}
+
+<ul class="social">
+    {{ $length := (len .Site.Params.social) }}
+    {{ range $index, $elem := .Site.Params.social}}
+
+    {{ if eq $elem.name "Email" }}
+    <li>
+        <a class="icon" target="_blank" rel="noopener" href="mailto:{{ $elem.link }}" aria-label="Email">
+            <i class="fas fa-envelope" aria-hidden="true"></i> Email
+        </a>
+    </li>
+
+    {{ else if eq $elem.name "RSS" }}
+    <li>
+        <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}" aria-label="RSS">
+            <i class="fas fa-rss" aria-hidden="true"></i> RSS
+        </a>
+    </li>
+
+     {{ else if eq $elem.name "Professional Site" }}
+    <li>
+        <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}" aria-label="RSS">
+            <i class="fas fa-external-link-alt" aria-hidden="true"></i> {{ $elem.name }}
+        </a>
+    </li>
+
+    {{ else }}
+    <li>
+        <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}" aria-label="{{ $elem.name }}">
+            <i class="fab fa-{{ lower $elem.fa_name }}" aria-hidden="true"></i> {{ $elem.name }}
+        </a>
+    </li>
+
+    {{ end }}
+    {{ if (lt (add $index 1) $length) }}
+    <span>|</span>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+</ul>

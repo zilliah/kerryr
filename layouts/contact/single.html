@@ -1,68 +1,19 @@
 {{define "main"}}
 
+<!-- <link rel="stylesheet" href="/static/css/contact.css"> -->
+
 <section id="friendly">
     {{ .Content }}
 </section>
 
-
 <section id="socials">
-    <h2>Social Media</h3>
-        {{ if isset .Site.Params "social" }}
-        <p>Connect with me on:</p>
-        <ul>
-
-            {{ $length := (len .Site.Params.social) }}
-            {{ range $index, $elem := .Site.Params.social}}
-            <!-- ok i think this ^ loops through the social params and does these if conditions: -->
-            <li>
-                {{ if eq $elem.name "email" }}
-                <a class="icon" target="_blank" rel="noopener" href="mailto:{{ $elem.link }}" aria-label="Email">
-                    <i class="fas fa-envelope" aria-hidden="true"></i>
-                </a>
-            </li>
-            <li>
-                {{ else if eq $elem.name "rss" }}
-                <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}" aria-label="RSS">
-                    <i class="fas fa-rss" aria-hidden="true"></i>
-                </a>
-            </li>
-            <li>
-                {{ else if eq $elem.name "scholar" }}
-                <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}" aria-label="Google Scholar">
-                    <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-                </a>
-            </li>
-            <li>
-                {{ else }}
-                <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}" aria-label="{{ $elem.name }}">
-                    <i class="fab fa-{{ lower $elem.name }}" aria-hidden="true"></i>
-                </a>
-            </li>
-            {{ end }}
-            {{ if (lt (add $index 2) $length) }}
-            {{- print " , " -}}
-            {{ else if (lt (add $index 1) $length) }}
-            {{- print " and " -}}
-            {{ else }}
-            {{- print "." -}}
-            {{ end }}
-            {{ end }}
-            {{ end }}
-        </ul>
-
+    {{ partial "socials-list.html" . }}
 </section> 
-
-
 
 <section id="form">
     <h2>Contact form</h2>
+    <span>Message sent!</span>
     {{ partial "contact-form.html" . }}
-
 </section>
-
-
-
-
-
 
 {{end}}
