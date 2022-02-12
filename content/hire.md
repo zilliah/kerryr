@@ -3,33 +3,44 @@ date = 2022-01-20T22:49:22Z
 title = "Hire me"
 
 +++
+# Hire Me
 
-Hire Me
-=========================
+## Lessons
 
-I'm currently working freelance and have time available \[guh\]
+I teach both group and one-one one classes. Currently remote.
 
-I love to collaborate and 
+* Knitting - any level.
+* Cross stitching - help choosing and starting your first project.
+* Ukulele - learn to play basic songs.
 
-rates vary by topic and type of work
+## Art and Craft Commissions
 
-lessons
+If I can make it, I'll make one for you. Commissions can be as specific or vague as you like.
 
-* music? ukulele
-* knitting
-* cross stitch
+* Knitting and crochet.
+* Cross stitch and embroidery - framed or on garments/etc.
+* Drawing, mixed media artwork.
+* Terrible parody songs - pick a song and a topic.
 
-comissions
+## Organisation
 
-* art, i guess
-* knitting
-* xst
+* Item organization - give me a set of physical or digital items and I'll organise them for you.
+* Personal organisational design - have something you need to organise, but can't figure out how? I can design an organisational system to fit your needs.
+* Data librarian services - ensuring files are appropriately located and labelled.
 
-tech
+## Wall Art Help
 
-* go to professional website w tech stuff for that (or just contact)
+* Hanging services - do you have art sitting in your closet that never made it to your walls? Are you unsure where and how to hang things? Let me hang it for you.
+* Art finding - I can find reasonably priced prints that fit your aesthetic.
 
-organization
+## Web Development
 
-* i'll make systems for you
-* data librarian stuff
+* Details at {{< socials name="tech-site" >}}.
+
+## Rates
+
+Since I do a broad variety of work, my rates vary depending on what you're looking for. I'm also open to barter and trades.
+
+I'm open to collaboration, as long as it's "we build a project together" and not "I implement an idea you have." (I'm happy to implement your cool ideas, but that would fall under paid work.)
+
+[Contact me](/contact/ "Contact Me") to discuss your needs and ideas!
