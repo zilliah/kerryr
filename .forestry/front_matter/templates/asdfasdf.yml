@@ -1,4 +1,19 @@
 ---
 label: asdfasdf
 hide_body: false
-fields: []
+fields:
+- name: year
+  type: text
+  config:
+    required: false
+  label: year
+- name: number
+  type: number
+  label: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
