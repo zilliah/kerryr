@@ -22,5 +22,9 @@ fields:
   config:
     maxSize: 64
   label: image
+- name: multiple_images
+  type: image_gallery
+  config: {}
+  label: multiple images
 pages:
 - content/posts/asdfasdf.md
