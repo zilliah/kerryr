@@ -1,6 +1,7 @@
 +++
 categories = ["textiles"]
 date = 2022-01-27T05:00:00Z
+draft = true
 groups = ["textiles", "make"]
 tags = ["cross stitch", "technique"]
 title = "Efficient stitches"
