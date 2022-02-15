@@ -11,12 +11,16 @@ fields:
 - type: list
   name: categories
   label: categories
+  description: top level org:<br><br>textiles<br>art<br>tech<br>craft<br>make (anything
+    I make myself)<br><br>personal<br>music<br>media
 - type: list
   name: tags
   label: tags
-- type: list
-  name: groups
-  label: groups
+  description: lower level org:<br><br>textiles:<br>- knitting<br>- sewing<br>- cross
+    stitch<br>- embroidery<br><br>art:<br>- drawing<br>- painting<br>- atcs<br>- mixed
+    media<br><br>tech:<br>??<br><br>personal:<br>- diary? selfcare?<br>- autism<br>-
+    mental health hacks<br><br>media:<br>- books<br>- tv/movies<br>- recommendations<br><br>misc:<br>-
+    technique<br>- tutorial<br>- WIP<br>- FO
 - name: fo_image
   type: file
   config:
