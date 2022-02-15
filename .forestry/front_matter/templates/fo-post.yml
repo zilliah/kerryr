@@ -32,3 +32,5 @@ fields:
   config: {}
   label: other images
   description: non-featured images of FO or progress
+pages:
+- content/posts/mermaid-cross-stitch.md
