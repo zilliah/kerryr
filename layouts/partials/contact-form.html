@@ -1,11 +1,9 @@
 <form id="contact-form">
     <div>
-        <label for="name">Name:
-            <input type="text" name="from_name" id="name">
-        </label>
-        <label for="email">Email (required):
-            <input type="email" name="user_email" id="email" required="required" aria-required="true">
-        </label>
+        <label for="name">Name:</label>
+        <input type="text" name="from_name" id="name">
+        <label for="email">Email (required):</label>
+        <input type="email" name="user_email" id="email" required="required" aria-required="true">
     </div>
     
     <label for="reason">Reason for contacting:</label>
@@ -22,12 +20,13 @@
     <label for="message" aria-required="true">Message (required):</label>
     <textarea name="message" id="message" aria-required="true" required="required"></textarea>
 
-    <input type="submit" value="Send Message">
+    <div>
+        <input type="submit" value="Send Message">
+    </div>
 </form>
 
 
-<!-- maybe a separate file for this unless that makes it too complicated, idk. 
-        leave here for testing for now i guess?-->
+
 <script type="text/javascript">
     window.onload = function() {
         let btn = document.querySelector("input[type=\"submit\"]");
@@ -39,13 +38,11 @@
                 .then(function() {
                     console.log('SUCCESS!');
                     form.classList.add("sent");
-                    messageResult.classList.add("sent");
-                    messageResult.textContent = "Message sent";
                 }, function(error) {
                     console.log('FAILED: ', error);
-                    alert("Message failed to send - refresh and try again or contact me via email.")
+                    alert("Message failed to send - try again or contact me via email.")
                     btn.classList.add("fail");
-                    btn.value = "Try again";
+                    btn.value = "Error - try again";
                 });
         });
     }

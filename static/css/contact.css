@@ -1,5 +1,5 @@
 
-
+/* ----------social media list ----------- */
 #socials li {
     list-style-type: none;
 }
@@ -18,8 +18,9 @@
 }
 
 
+/*  ------------ contact form -------- */
 
-
+/* -----general layout ------ */
 #contact-form {
     display: flex;
     flex-direction: column;
@@ -27,21 +28,18 @@
     border-radius: 5px;
 }
 
-/* #contact-form:hover {
-    box-shadow: 0 5px 20px rgb(21, 168, 173, 0.5);
-} */
-
 
 #contact-form div {
     display: flex;
     justify-content: space-between;
+    margin-left: 0;
 }
 
-@media (max-width: 748px) {
-    #contact-form div {
-        flex-direction: column;
-    }
+#contact-form label[for="email"]{
+    margin-left: 3rem;
 }
+
+
 
 #contact-form * { 
     margin: 0.5rem;
@@ -69,46 +67,67 @@
     background-color: rgb(21, 168, 173, 0.8);
     color: white;
     font-family: inherit;
-    width: 50%;
-    margin: auto 20%;
-    /* font-weight: 600; */
-    font-size: 0.9rem;
+    min-width: 10rem;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    font-size: 1rem;
     border: none;
-    padding: 0.5rem;
+    padding: 0.8rem 0.5rem;
+    margin: auto;
 }
 
 #contact-form input[type="submit"]:hover {
     background-color: #15a8ad;
 }
 
-#contact-form input[type="submit"].fail {
-    background-color: rgba(212, 128, 170, 1);
-}
-
-#contact-form.sent {
-    display: none;
-}
-
-#form span {
-    display:none;
-}
-
-#form span.sent {
-    display: inline;
-}
-
+/* ----------- responsive ------ */
 @media (max-width: 819px) {
-
+    
     #socials ul {
         flex-direction: column;
     }
-
+    
     #socials li {
         margin: 0.5rem;
     }
-
+    
     #socials span {
         display: none;
     }
     
+}
+
+@media (max-width: 801px) {
+    #contact-form div {
+        display:flex;
+        margin: auto 0;
+        flex-direction: column;
+    }
+    
+    #contact-form label[for="email"]{
+        margin-left: 0;
+    }
+}
+
+
+
+/* -----form submission UI ------ */
+
+#contact-form input[type="submit"].fail {
+    background-color: rgba(212, 128, 170, 1);
+}
+
+#form.sent #contact-form{
+    display: none;
+}
+
+#form span {
+    display: none;
+}
+
+#form.sent span {  
+    display: block;
+    margin: 3rem;
+    text-align: center;
+    font-size: 1.2rem;
 }
