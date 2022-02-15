@@ -7,7 +7,6 @@ tags = ["cross stitch", "technique"]
 title = "Efficient stitches"
 
 +++
-
 I love to optimize things (sometimes to a fault, but that's a different post). 
 
 * balance efficiency with looking good (thread direction)
