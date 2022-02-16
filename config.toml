@@ -72,7 +72,7 @@ copyright = "Kerry Smart"
 
 [[params.social]]
   fa_name = "external-link-alt"
-  name = "Professional Site"
+  name = "Web Dev"
   link = "https://kerrysmart.ca"
 
 [[params.social]]
@@ -81,20 +81,20 @@ copyright = "Kerry Smart"
   link = "kerry.z.smart@gmail.com"
 
 [[params.social]]
-  fa_name = "rss"
-  name = "RSS"
-  link = "/index.xml"
-
+  fa_name = "github"
+  name = "Github"
+  link = "https://github.com/zilliah"
 
  [[params.social]]
   fa_name = "instagram"
   name = "Instagram"
   link = "https://www.instagram.com/vitreousfabric/"
 
+
 [[params.social]]
-  fa_name = "github"
-  name = "Github"
-  link = "https://github.com/zilliah"
+  fa_name = "ravelry"
+  name = "Ravelry"
+  link = "https://www.ravelry.com/people/zilliah"
 
 [[params.social]]
   fa_name = "linkedin"
@@ -102,6 +102,10 @@ copyright = "Kerry Smart"
   link = "https://www.linkedin.com/in/kerryzsmart/"
 
 
+[[params.social]]
+  fa_name = "rss"
+  name = "RSS"
+  link = "/index.xml"
 
 
  

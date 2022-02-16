@@ -1,5 +1,13 @@
 {{ define "main"}}
 <div id="archive">
+  
+{{ if eq .Page.Title "Posts" }}
+  <h1>All Posts</h1>
+{{ else }}
+  <h1>{{ .Page.Title }}</h1>
+{{ end }}
+
+
   <ul class="post-list">
 
   {{ $pages := .Paginator.Pages }}
