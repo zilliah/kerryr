@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Kerry Smart"
 theme = "cactus"
 copyright = "Kerry Smart"
+author = "Kerry Smart"
 
 [params]
     # description = "Hello - I'm Kerry and I love to craft and make things.  I'm currently focused on cross stitching and web development."
