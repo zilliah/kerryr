@@ -13,7 +13,7 @@ That said, I think a lot of art and craft, particularly fine art and conceptual 
 
 I deeply love making art and crafts, and I love covering every wall in my house in art, but that really only impacts me, not the people around me or any broader community/society. It lacks depth in both impact and meaning. I'm trying to find ways to make that impact and meaning - like everything else, it's a work in progress.
 
-What I find the most motivating are projects that integrate art and visual thinking into daily life. What are the small ways we can improve life and make mundane processes more visually joyful? Design is obviously a factor here as well, but a lot of people seem to associate good design with "whitespace everywhere, and keep things as minimal as possible" - where is the joy in that? Emptiness doesn't make me happy. (...I recognize the irony of writing this on a mostly-white website! I'm working on it, haha.)
+What I find the most motivating are projects that integrate art and visual thinking into daily life. What are the small ways we can improve life and make mundane processes more visually joyful? Design is obviously a factor here as well, but a lot of people seem to associate good design with "whitespace everywhere, and keep things as minimal as possible" - where is the joy in that? Emptiness doesn't make me happy. (…I recognize the irony of writing this on a mostly-white website! I'm working on it, haha.)
 
 ## Work
 
