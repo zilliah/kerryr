@@ -20,7 +20,7 @@ ottawa area, canada
 
 worked as things? make things?
 
-I have a Bachelor's of Knowledge Integration and Mathematics, with a Fine Art Studio minor, from the University of Waterloo.
+I have a Bachelor's of Knowledge Integration and Mathematics with a Fine Art Studio minor, from the University of Waterloo.
 
 I'm located near Ottawa, Canada.
 
