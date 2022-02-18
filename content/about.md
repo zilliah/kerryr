@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 title = "About Kerry"
 
 +++
@@ -16,12 +15,14 @@ I deeply love making art and crafts, and I love covering every wall in my house 
 
 What I find the most motivating are projects that integrate art and visual thinking into daily life. What are the small ways we can improve life and make mundane processes more visually joyful? Design is obviously a factor here as well, but a lot of people seem to associate good design with "whitespace everywhere, and keep things as minimal as possible" - where is the joy in that? Emptiness doesn't make me happy. (...I recognize the irony of writing this on a mostly-white website! I'm working on it, haha.)
 
-## Etc
+## Work
 
-I'm 
+I'm currently developing a freelance web development/art/etc business, with a goal to eventually work as a software engineer. I burned out very badly at my previous job running a startup, and am trying to figure out a way to balance health and work. 
+
+## Etc
 
 I have a Bachelor's of Knowledge Integration and Mathematics with a Fine Art Studio minor, from the University of Waterloo.
 
-I'm located near Ottawa, Canada.
+I'm located near Ottawa, Canada. 
 
 This website is built with [Hugo](https://gohugo.io/ "Hugo"), on top of the [Cactus](https://themes.gohugo.io/themes/hugo-theme-cactus/ "Cactus theme") theme. 
