@@ -5,11 +5,9 @@ title = "Hire me"
 +++
 # Hire Me
 
-
 ## Web Development
 
 * Details at {{< social-link "Web Dev" >}}
-
 
 ## Organisation
 
@@ -49,10 +47,8 @@ I'm open to collaboration, as long as it's "we build a project together" and not
 
 If you're interested in hiring me, the first step is to [contact me](/contact/ "Contact Me")!
 
-Next, we'll discuss your ideas, needs, timeline, and budget. This can happen over video or text - no in-person meetings at the moment. 
+Next, we'll discuss your ideas, needs, timeline, and budget. This can happen over video or text (no in-person meetings at the moment).
 
-Once I have a sense of your project, I'll either give you a quote or a proposal with a few different options. You can decide whether or not the proposal will work for you - there's no obligation to accept it! 
+Before finalising anything, I'll give you a quote or a proposal with a few different options. You can decide whether or not the proposal will work for you - there's no obligation to accept if it isn't what you're looking for. 
 
-If you're happy the the proposal, I'll start work as soon as I receive your down payment. 
-
-
+Once we've found an agreement that works for both of us, I'll get started!
