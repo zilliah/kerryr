@@ -9,15 +9,15 @@ title = "Hire me"
 
 * Details at {{< social-link "Web Dev" >}}
 
-## Organisation
+## Organization
 
-* Item organisation - give me a set of physical or digital items and I'll organise them for you.
-* Organisational design - have something you need to organise, but can't figure out how? I can design an organisational system to fit your needs.
-* Data librarian services - ensuring files are appropriately located and named.
+* Item organization - give me a set of physical or digital items and I'll organize them for you.
+* Organizational design - have something you need to organize, but can't figure out how? I can design an organizational system to fit your needs.
+* Data librarian services - ensuring files are appropriately located and named, creating standardized formatting and organizational systems.
 
 ## Wall Art Help
 
-* Hanging services - do you have art sitting in your closet that never made it to your walls? Are you unsure where and how to hang things? Let me hang it for you.
+* Hanging services - do you have art sitting in your closet that never made it to your walls? Are you unsure where and how to hang things? I can come to your house and either hang it for you, or take you through the process of hanging it yourself.
 * Art finding - I can find reasonably priced prints that fit your aesthetic.
 
 ## Lessons
@@ -30,7 +30,7 @@ I teach group and one-one one classes.
 
 ## Art and Craft Commissions
 
-If I can make it, I'll make one for you. Commissions can be as specific or vague as you like. Commissions include:
+If I can make it, I'll make one for you! Commissions can be as specific or vague as you like. Commissions can include:
 
 * Knitting and crochet.
 * Custom knitting patterns.
@@ -47,8 +47,8 @@ I'm open to collaboration, as long as it's "we build a project together" and not
 
 If you're interested in hiring me, the first step is to [contact me](/contact/ "Contact Me")!
 
-Next, we'll discuss your ideas, needs, timeline, and budget. This can happen over video or text (no in-person meetings at the moment).
+Next, we'll discuss your ideas, needs, timeline, and budget. This can happen over video, text, or in person (vaccination proof required).
 
-Before finalising anything, I'll give you a quote or a proposal with a few different options. You can decide whether or not the proposal will work for you - there's no obligation to accept if it isn't what you're looking for. 
+Before finalizing anything, I'll give you a quote or a proposal with a few different options. You can decide whether or not the proposal will work for you - there's no obligation to accept if it isn't what you're looking for.
 
 Once we've found an agreement that works for both of us, I'll get started!
