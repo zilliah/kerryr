@@ -1,7 +1,7 @@
 # kerryr
 My personal website built with [Hugo](https://gohugo.io/) and the [Cactus theme](https://github.com/monkeyWzr/hugo-theme-cactus).
 
-[See it live](https://kerrrry.ca/)
+[See it live here](https://kerrrry.ca/).
 
 ![kerryrphoto](https://user-images.githubusercontent.com/6020261/167315883-d0af44ba-f12d-4605-9426-873a639ed423.png)
 
