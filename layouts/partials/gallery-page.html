@@ -1,0 +1,19 @@
+<!-- this is for the individual gallery pages -->
+
+
+<img class="gallery" src="/img/gallery/{{ .Params.image}} " alt="Photo of '{{ .Title }}' finished cross stitch project">
+<section class="description">
+    <h1>{{ .Title }}</h1>
+    <ul>
+        <li><a href="{{ .Params.link }}" target="_blank">Pattern Link</a></li>
+        <li>Finished: {{ .Date.Format (.Site.Params.dateFormat | default "2006-01-02") }}</li>
+    </ul>
+    <p>{{ .Content }} </p>
+</section>
+
+
+<!-- hmmmmmmm, this is doing sth weird with permalinks i think? TODO come back to it later maybe -->
+<!-- <nav>
+    <a href="{{ .PrevInSection }}">Previous</a>
+    <a href="{{ .NextInSection }}">Next</a>
+</nav> -->

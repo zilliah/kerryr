@@ -9,7 +9,7 @@ author = "Kerry Smart"
     # description = "Hello - I'm Kerry and I love to craft and make things.  I'm currently focused on cross stitching and web development."
     rss = true
     #https://example.com/index.xml is RSS feed
-    css = ["css/contact.css"]  
+    css = ["css/contact.css", "css/gallery-page.css", "css/gallery.css"]  
     name = "Kerry Smart"
     # mainSection = "categories"  #changes section on main page
     mainSectionTitle = "Posts"
@@ -29,10 +29,10 @@ author = "Kerry Smart"
   url = "/posts"
   weight = 2
 
-# [[menu.main]]
-#   name = "Projects"
-#   url = "/projects"
-#   weight = 3
+[[menu.main]]
+  name = "Cross Stitch Gallery"
+  url = "/gallery"
+  weight = 3
 
 
 # [[menu.main]]

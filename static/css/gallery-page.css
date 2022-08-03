@@ -1,0 +1,23 @@
+img.gallery {
+    width: 80%;
+    border-radius: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.description {
+    text-align: center;
+}
+
+.description ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.description + nav {
+    text-align: center;
+}
+
+.description p {
+    text-align: center;
+}

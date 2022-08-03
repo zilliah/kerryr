@@ -1,0 +1,23 @@
+{{ define "main"}}
+
+<h1>Cross Stitch Gallery</h1>
+<p>Behold my finished cross stitch projects! Click for pattern links.</p>
+<P>For progress pics, check out         <a class="icon" target="_blank" rel="noopener" href="https://www.instagram.com/vitreousfabric/" aria-label="instagram">
+  <i class="fab fa-instagram" aria-hidden="true"></i> 
+  vitreousfabric.
+</a></P>
+<section id="gallery">
+    {{ $pages := .Pages }}
+    {{ range (sort $pages "Date" "desc") }}
+    <div class="thumb">
+      <a href="{{ .Permalink }}">
+        <img class="gallery" src="/img/gallery/thumb-{{ .Params.image}} " alt="{{ .Title }}">
+        <div class="overlay">
+          <h4>{{ .Title }}</h4>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+</section>
+
+{{ end }} 
