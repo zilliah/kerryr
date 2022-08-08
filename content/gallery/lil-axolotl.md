@@ -1,6 +1,6 @@
 +++
 date = 2021-06-20T04:00:00Z
-image = ""
+image = "axo.jpg"
 link = "https://www.etsy.com/ca/shop/GentleFeather"
 title = "Lil Axolotl"
 
