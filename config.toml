@@ -15,7 +15,7 @@ author = "Kerry Smart"
     mainSectionTitle = "Posts"
     showAllPostsOnHomePage = false
     postsOnHomePage = 6
-    tagsOverview = true
+    tagsOverview = false
 
 # ----------- nav ------------
 
