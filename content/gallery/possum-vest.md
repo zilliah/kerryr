@@ -2,7 +2,7 @@
 title = "Baby Possum Vest"
 date = 2022-04-07
 type= "gallery"
-link = "https://www.etsy.com/listing/967661296/opossum-cross-stitch-pdf-opossum?ref=yr_purchases"
+link = "https://www.etsy.com/listing/967661296/opossum-cross-stitch-pdf-opossum"
 image = "possum-vest.jpg"
 +++
 

@@ -2,7 +2,7 @@
 title = "Scandinavian Foxes"
 date = 2021-09-28
 type= "gallery"
-link = "https://www.etsy.com/listing/720445210/foxes-scandinavian-cross-stitch-pattern?ref=yr_purchases"
+link = "https://www.etsy.com/listing/720445210/foxes-scandinavian-cross-stitch-pattern"
 image = "scandi-foxes.jpg"
 
 +++

@@ -2,7 +2,7 @@
 title = "Ladybug Shorts"
 date = 2022-06-15
 type= "gallery"
-link = "https://www.etsy.com/listing/934829318/flying-ladybug-cross-stitch-pattern?ref=yr_purchases"
+link = "https://www.etsy.com/listing/934829318/flying-ladybug-cross-stitch-pattern"
 image = "shorts.jpg"
 +++
 

@@ -2,7 +2,7 @@
 title = "Lady Lizard"
 date = 2021-08-03
 type= "gallery"
-link = "https://stitchingland.store/products/mrs-lizard-cross-stitch-pattern?_pos=1&_sid=c11609079&_ss=r"
+link = "https://stitchingland.store/products/mrs-lizard-cross-stitch-pattern"
 image = "lady-lizard.jpg"
 +++
 
