@@ -5,24 +5,12 @@ title = "About Kerry"
 +++
 # About Kerry
 
-I've always loved art and craft, particularly anything textile-based. I've dabbled in a lot of different arts and crafts, including knitting, crochet, drawing, mixed media, and cross stitch. I typically have two or three crafting projects on the go.
+I love to make art-y craft-y things - I particularly love textiles! Right now I'm learning ceramics (I post some of them [here](https://www.instagram.com/vitreousfabric/) but not very consistently). I've been struggling to make art for the last few years due to difficult life circumstances, but I'm trying to build up a regular practice again.
 
-## Art and Tech
+I also love to organise things. I've been doing a lot of [puzzles](https://www.instagram.com/verypuzzles/) in the last year, since they're basically just organising (but with art!). I trade a lot of puzzles and help run the Ottawa in-person puzzle swaps ([Facebook Group](https://www.facebook.com/groups/1023438527742333/), [Mailing List](https://mailchi.mp/d01c3649d60d/ottawa-puzzle-swaps)). If you'd like to trade with me, my puzzle wishlist is [here](https://hickory-cobalt-7b0.notion.site/Kerry-Zilliah-s-puzzle-wishlist-6ddc9a28ac7b41d7b3a9e4e893b65840).
 
-I think a lot of art and craft, particularly fine art and conceptual art, misses the mark in terms of human connection and impact. It's often inaccessible to most people due to price or institutional barriers, and weirdly separated from day to day life. A lot of it is also very "handwavy" - it's a one-off object that expresses a concept; there's often no broader structure or underlying framework. I'm a fairly analytical person, and I need some aspect of that for it to feel **real.**
+<!-- I have a Bachelor's of Knowledge Integration and Mathematics with a Fine Art Studio minor, from the University of Waterloo. -->
 
-I deeply love making art and crafts, and I love covering every wall in my house in art, but that really only impacts me, not the people around me or any broader community/society. It lacks depth in both impact and meaning. I'm trying to find ways to make that impact and meaning - like everything else, it's a work in progress.
-
-What I find the most motivating are projects that integrate art and visual thinking into daily life. What are the small ways we can improve life and make mundane processes more visually joyful? 
-
-## Work
-
-I'm currently developing a freelance web development/art/etc business, with a goal to eventually work as a software engineer. I burned out very badly at my previous job running a startup, and am trying to figure out a way to balance health and work.
-
-## Etc
-
-I have a Bachelor's of Knowledge Integration and Mathematics with a Fine Art Studio minor, from the University of Waterloo.
-
-I'm located near Ottawa, Canada.
+I live near Ottawa, Canada.
 
 This website is built with [Hugo](https://gohugo.io/ "Hugo"), on top of the [Cactus](https://themes.gohugo.io/themes/hugo-theme-cactus/ "Cactus theme") theme.

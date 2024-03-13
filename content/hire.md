@@ -47,7 +47,7 @@ I'm open to collaboration, as long as it's "we build a project together" and not
 
 If you're interested in hiring me, the first step is to [contact me](/contact/ "Contact Me")!
 
-Next, we'll discuss your ideas, needs, timeline, and budget. This can happen over video, text, or in person (vaccination proof required).
+Next, we'll discuss your ideas, needs, timeline, and budget. This can happen over video, text, or in person.
 
 Before finalizing anything, I'll give you a quote or a proposal with a few different options. You can decide whether or not the proposal will work for you - there's no obligation to accept if it isn't what you're looking for.
 
