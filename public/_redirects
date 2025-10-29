@@ -1,3 +1,19 @@
-kerrry.ca https://kerrrry.ca 301!
-kerrrrry.ca https://kerrrry.ca 301!
-kerrrrrry.ca https://kerrrry.ca 301!
+#3 R
+http://kerrry.ca/* https://kerrrry.ca/:splat 301!
+http://www.kerrry.ca/* https://kerrrry.ca/:splat 301!
+https://kerrry.ca/* https://kerrrry.ca/:splat 301!
+https://www.kerrry.ca/* https://kerrrry.ca/:splat 301!
+
+#4 R is base, no redirects needed
+
+#5 R
+http://kerrrrry.ca/* https://kerrrry.ca/:splat 301!
+http://www.kerrrrry.ca/* https://kerrrry.ca/:splat 301!
+https://kerrrrry.ca/* https://kerrrry.ca/:splat 301!
+https://www.kerrrrry.ca/* https://kerrrry.ca/:splat 301!
+
+#6 R
+http://kerrrrrry.ca/* https://kerrrry.ca/:splat 301!
+http://www.kerrrrrry.ca/* https://kerrrry.ca/:splat 301!
+https://kerrrrrry.ca/* https://kerrrry.ca/:splat 301!
+https://www.kerrrrrry.ca/* https://kerrrry.ca/:splat 301!
